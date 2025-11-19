@@ -4,7 +4,7 @@ A passionate **Software Engineering student** from Pakistan, currently exploring
 
 
 ## 🚀 About Me
-- 🎓 BS Software Engineering (6th Semester)
+- 🎓 BS Software Engineering (7th Semester)
 - 🔭 Currently working on multiple AI-powered and MERN-based projects
 - 🌱 **Learning:** LangChain, Machine Learning, Next.js, and n8n
 - 🧪 Exploring embeddings, vector stores, and advanced RAG systems
